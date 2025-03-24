@@ -5,7 +5,10 @@
 </head>
 <body>
     <h1>SuperMarket Management System using Object Oriented Programming in C++</h1>
-    <p><strong>Description:</strong> This project is designed to [briefly describe the project's purpose and functionality].</p>
+    <p><strong>Description:</strong> A software solution to automate supermarket operations, including inventory tracking, billing, sales monitoring, and user management. 
+        <h2>It ensures efficient stock management</h2>
+        <h2>fast billing</h2>
+</p>
     <h2>Features</h2>
     <ul>
         <li>Feature 1: Menu Driven</li>
